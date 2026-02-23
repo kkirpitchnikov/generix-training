@@ -1,0 +1,29 @@
+documentation:
+  - changed-files:
+      - any-glob-to-any-file: "**/*.md"
+
+skills:
+  - changed-files:
+      - any-glob-to-any-file: "skills 101/**"
+      - any-glob-to-any-file: ".claude/skills/**"
+
+plans:
+  - changed-files:
+      - any-glob-to-any-file: "plans/**"
+
+workflows:
+  - changed-files:
+      - any-glob-to-any-file: "workflows/**"
+
+hooks:
+  - changed-files:
+      - any-glob-to-any-file: "hooks 101/**"
+
+ci:
+  - changed-files:
+      - any-glob-to-any-file: ".github/**"
+
+claude:
+  - changed-files:
+      - any-glob-to-any-file: ".claude/**"
+      - any-glob-to-any-file: "CLAUDE.md"

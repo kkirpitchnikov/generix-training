@@ -1,0 +1,26 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "anthropic",
+    "chromadb",
+    "cspell",
+    "fastapi",
+    "fanout",
+    "fanin",
+    "generix",
+    "lychee",
+    "markdownlint",
+    "orchestrator",
+    "pyproject",
+    "subagent",
+    "subagents",
+    "uv",
+    "yagni"
+  ],
+  "ignorePaths": [
+    ".git",
+    "node_modules",
+    "*.csv"
+  ]
+}
